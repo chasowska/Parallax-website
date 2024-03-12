@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-size: 18px;
+    line-height: 1.8rem;
+}
+
+.back1, .back2, .back3, .back4, .back5 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.back1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/kyiv.jpg");
+    height: 100vh;
+}
+
+.back2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/odessa.jpg");
+    height: 400px;
+}
+
+.back3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/kharkiv.jpg");
+    height: 400px;
+}
+
+.back4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/lviv.jpg");
+    height: 400px;
+}
+
+.back5 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/defenders.jpg");
+    height: 100vh;
+}
+
+.titles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.title {
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+    padding: 20px;
+    color: white;
+}
+
+.title1 {
+    background-color: #111;
+}
+
+.title2 {
+    background-color: #f4f4f4;
+    color: #252525;
+}
+
+
+section {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section-dark {
+    background-color: #282e34;
+    color: #ddd;
+}
+
