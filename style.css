@@ -19,27 +19,27 @@ body {
 }
 
 .back1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/kyiv.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("jpeg/kyiv.jpg");
     height: 100vh;
 }
 
 .back2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/odessa.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("jpeg/odessa.jpg");
     height: 400px;
 }
 
 .back3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/kharkiv.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("jpeg/kharkiv.jpg");
     height: 400px;
 }
 
 .back4 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/lviv.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("jpeg/lviv.jpg");
     height: 400px;
 }
 
 .back5 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("/jpeg/defenders.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45) 100%, transparent), url("jpeg/defenders.jpg");
     height: 100vh;
 }
 
